@@ -2,6 +2,12 @@
 
 `pip install -r requirements.txt`
 
+Example stuff to try:
+
+`python query_cli.py --print_cols`
+`python query_cli.py --help`
+`python query_cli.py -max=p_unmarried_20_24_female -max=p_white -min=median_rent_1_bed --query="n_people>=150000" --plot`
+
 # data
 
 This dataset includes
